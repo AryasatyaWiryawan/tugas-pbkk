@@ -1,6 +1,6 @@
 # Tugas PBKK - D
-NRP : 5025221256
-Nama : Aryasatya Wiryawan
+- NRP : 5025221256
+- Nama : Aryasatya Wiryawan
 
 UI :
 default:
