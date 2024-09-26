@@ -12,14 +12,14 @@ class Post
                 'id' => '1',
                 'slug' => 'judul-artikel-1',
                 'title' => 'Judul Artikel 1',
-                'author' => 'Wan Sabrina',
+                'author' => 'Awan',
                 'body' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptates. Quisquam, voluptates. Quisquam, voluptates. Quisquam,'
             ],
             [
                 'id' => '2',
                 'slug' => 'judul-artikel-2',
                 'title' => 'Judul Artikel 2',
-                'author' => 'Wan Sabrina',
+                'author' => 'Awan',
                 'body' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
             ],
         ];
